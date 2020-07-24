@@ -19,5 +19,5 @@ setup(
         "dbt": ["include/sqlite/macros/*.sql", "include/sqlite/dbt_project.yml",]
     },
     install_requires=["dbt-core==0.16.1rc1"],
-    py
+    python_requires=">=3.6",
 )
