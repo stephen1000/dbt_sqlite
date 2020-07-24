@@ -1,4 +1,10 @@
 #!/usr/bin/env python
+""" I didn't make this file! Copied from:
+https://github.com/fishtown-analytics/dbt/blob/dev/0.17.1/core/scripts/create_adapter_plugins.py
+
+I did, however, move the assignment of `prefix` up to avoid an error.
+"""
+
 import argparse
 import sys
 from pathlib import Path
