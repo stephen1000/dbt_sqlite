@@ -12,7 +12,7 @@ setup(
     description=description,
     long_description=description,
     author="Stephen Lowery",
-    author_email="slowery@ippon.fr",
+    author_email="stephen.e.lowery@gmail.com",
     url="https://github.com/stephen1000/dbt_sqlite/",
     packages=find_packages(),
     package_data={
